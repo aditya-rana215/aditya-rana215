@@ -31,8 +31,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aditya-rana215&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-rana215&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=aditya-rana215&theme=radical&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aditya-rana215&theme=radical&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -41,15 +41,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aditya-rana215&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 𓆗✦  Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aditya-rana215/aditya-rana215/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ### ⭐ Thanks for visiting my profile!
